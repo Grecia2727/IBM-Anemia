@@ -6,8 +6,7 @@
 La anemia es la enfermedad más frecuente en el mundo. En el año 2008 la O.M.S. la
 definió como un problema global de salud pública que afecta a más de 2.000 millones
 de personas, tanto en países en vías de desarrollo como desarrollados, conllevando
-importantes consecuencias para la salud humana, así como para el desarrollo social y
-económico. Ocurre en todas las épocas de la vida, pero es más prevalente en mujeres
+importantes consecuencias para la salud humana, así como para el desarrollo social y económico. Ocurre en todas las épocas de la vida, pero es más prevalente en mujeres
 embarazadas, en niños y en jóvenes (Organización Mundial de la Salud [OMS], 2011).
 Conceptualmente, anemia significa disminución de la masa eritrocitaria, es decir, del
 número de glóbulos rojos o hematíes. Éstos son los encargados del transporte de
@@ -18,7 +17,7 @@ necesidades del organismo, necesidades que varían en función de la edad, el se
 altitud sobre el nivel del mar, el tabaquismo, las diferentes etapas del embarazo, etc
 (OMS, 2011). 
 
-![Infografía de la anemia](https://pbs.twimg.com/media/COT1PIlWEAA_jmS.png)
+![infografia-anemia](https://pbs.twimg.com/media/COT1PIlWEAA_jmS.png)
 
 ### Entregables
 
@@ -46,15 +45,31 @@ de esta manera pudimos conocer la problemática que tenían las madres al querer
 
 
 #### 2) Diseño de la Interfaz de Usuario (prototipo)
-![sketch mano alzada Q-nutrition red social sobre alimentación saludable](https://github.com/lorenarey/lim-2018-05-bc-core-am-socialnetwork/blob/dev/img/sketch-q-nutrition-social-network-1.jpg)
 
-![altafidelidad1](https://github.com/Grecia2727/lim-2018-05-bc-core-am-socialnetwork/blob/master/img/alta%20fidelidad1.jpg)
+![sketch mano alzada 1](https://github.)
+https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(4).jpeg
+
+![sketch mano alzada 2](https://github.)
+https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(4).jpeg
+
+![sketch mano alzada 3](https://github.)
+https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(3).jpeg
+
+![sketch mano alzada 4](https://github.)
+https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(4).jpeg
+
+![sketch mano alzada 5](https://github.)
+https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(5).jpegg
+
+
+![altafidelidad1](https://github.com/Grecia2727/IBM-Anemia/tree/master/recursos)
 
 
 * Prototipo diseñado en Figma - modo Movil:
 <br>
 <img src="src/img/2_democel.gif" alt="Drawing" style="width: 500px;"/>
 <br>
+
 
 
 
