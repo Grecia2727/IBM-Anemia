@@ -46,6 +46,9 @@ de esta manera pudimos conocer la problemática que tenían las madres al querer
 
 #### 2) Diseño de la Interfaz de Usuario (prototipo)
 
+<br>
+<img src="https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(5).jpeg" alt="Drawing" style="width: 60px;"/>
+<br>
 ![sketch-mano-alzada1](https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(5).jpeg)
 ![sketch-mano-alzada2](https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(4).jpeg)
 ![sketch-mano-alzada3](https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(3).jpeg)
