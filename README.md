@@ -48,27 +48,20 @@ de esta manera pudimos conocer la problemática que tenían las madres al querer
 
 ![sketch mano alzada 1](https://github.)
 
-
-![infografia-anemia](https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(4).jpeg)
-![infografia-anemia](https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(4).jpeg)
-![infografia-anemia](https://pbs.twimg.com/media/COT1PIlWEAA_jmS.png)
-![infografia-anemia](https://pbs.twimg.com/media/COT1PIlWEAA_jmS.png)
-![infografia-anemia](https://pbs.twimg.com/media/COT1PIlWEAA_jmS.png)
-
 ![sketch mano alzada 2](https://github.)
 
 
 ![sketch mano alzada 3](https://github.)
-https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(3).jpeg
+(https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(3).jpeg)
 
 ![sketch mano alzada 4](https://github.)
-https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(4).jpeg
+(https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(4).jpeg)
 
 ![sketch mano alzada 5](https://github.)
-https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(5).jpegg
+(https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/(pict%20(5).jpeg)
 
 
-![altafidelidad1](https://github.com/Grecia2727/IBM-Anemia/tree/master/recursos)
+![altafidelidad1]((https://github.com/Grecia2727/IBM-Anemia/tree/master/recursos)
 
 
 
