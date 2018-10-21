@@ -46,22 +46,13 @@ de esta manera pudimos conocer la problemática que tenían las madres al querer
 
 #### 2) Diseño de la Interfaz de Usuario (prototipo)
 
-![sketch mano alzada 1](https://github.)
+![sketch mano alzada 1](https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(5).jpeg)
+![sketch mano alzada 2](https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(4).jpeg)
+![sketch mano alzada 3](https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(3).jpeg)
+![sketch mano alzada 4](https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(2).jpeg)
+![sketch mano alzada 5](https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(1).jpeg)
 
-![sketch mano alzada 2](https://github.)
-
-
-![sketch mano alzada 3](https://github.)
-(https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(3).jpeg)
-
-![sketch mano alzada 4](https://github.)
-(https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/pict%20(4).jpeg)
-
-![sketch mano alzada 5](https://github.)
-(https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/(pict%20(5).jpeg)
-
-
-![altafidelidad1]((https://github.com/Grecia2727/IBM-Anemia/tree/master/recursos)
+![Prototipo de Alta  fidelidad](https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/demo-anemia.gif)
 
 
 
