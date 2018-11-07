@@ -1,3 +1,8 @@
+## Ver Demo de la aplicación:
+
+Para ver el Demo, ingresar al siguiente link: https://anemiapp.mybluemix.net/
+o [hacer clic aquí](https://anemiapp.mybluemix.net/).
+
 ## Prototipo Final
 
 ![Prototipo-Alta-fidelidad](https://github.com/Grecia2727/IBM-Anemia/blob/master/recursos/demo-anemia.gif)
@@ -21,6 +26,8 @@ altitud sobre el nivel del mar, el tabaquismo, las diferentes etapas del embaraz
 (OMS, 2011). 
 
 ![infografia-anemia](https://pbs.twimg.com/media/COT1PIlWEAA_jmS.png)
+
+
 
 ### Entregables
 
